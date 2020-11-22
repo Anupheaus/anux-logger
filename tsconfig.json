@@ -1,0 +1,3 @@
+{
+  "extends": "anux-package/templates/tsconfig.json"
+}
